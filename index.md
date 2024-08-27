@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Student Home 
+title: Abby Home  
 description: Home Page
 hide: true
 ---
 
-My journey starts here.
+Abby's blog
