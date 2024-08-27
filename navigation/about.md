@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-Creator of Student 2025
+My name is Abby
