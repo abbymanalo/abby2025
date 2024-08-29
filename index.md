@@ -5,4 +5,5 @@ description: Home Page
 hide: true
 ---
 
-My blog
+
+![Walking Hello Kitty](https://media.tenor.com/woNAwogKnywAAAAj/hello-kitty.gif)
