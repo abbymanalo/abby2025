@@ -14,7 +14,7 @@ hide: true
 <!--- Has is a list variable containing mario metadata for sprite --->
 {% assign hash = site.data.mario_metadata %}  
 <!--- Size width/height of Sprit images --->
-<! --- {% assign pixels = 256 %} ---> 
+<!--- {% assign pixels = 256 %} ---> 
 
 <!--- HTML for page contains <p> tag named "Mario" and class properties for a "sprite"  -->
 
