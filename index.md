@@ -190,4 +190,3 @@ hide: true
 </script>
 
 
-# ![Walking Hello Kitty](https://media.tenor.com/woNAwogKnywAAAAj/hello-kitty.gif)
