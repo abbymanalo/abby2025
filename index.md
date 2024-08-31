@@ -203,3 +203,10 @@ hide: true
 </script>
 
 
+## Mario Commands
+- Arrow Key down: puffing
+- Hold on Arrow Right: cheering
+- Press Arrow Right: walk
+- Double click Arrow Right: run
+- Press Arrow Left: run
+- Working on adding walking left and shifting placement of mario lower on screen
