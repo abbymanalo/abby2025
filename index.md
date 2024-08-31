@@ -14,7 +14,7 @@ hide: true
 <!--- Has is a list variable containing mario metadata for sprite --->
 {% assign hash = site.data.mario_metadata %}  
 <!--- Size width/height of Sprit images --->
-<!--- {% assign pixels = 256 %} ---> 
+{% assign pixels = 256 %} 
 
 <!--- HTML for page contains <p> tag named "Mario" and class properties for a "sprite"  -->
 
@@ -95,12 +95,18 @@ hide: true
       this.stopAnimate();
       this.animate(this.obj["Walk"], 3);
     }
-
+    startWalkingL() { // added
+       this.stopAnimate();
+        this.animate(this.obj["WalkL"]-3);
+    }
     startRunning() {
       this.stopAnimate();
       this.animate(this.obj["Run1"], 6);
     }
-
+    startRunningL() { //added
+      this.stopAnimate();
+      this.animate(this.obj["Run1L"], -6);
+    }
     startPuffing() {
       this.stopAnimate();
       this.animate(this.obj["Puff"], 0);
@@ -131,26 +137,33 @@ hide: true
   ////////// event control /////////
 
   window.addEventListener("keydown", (event) => {
-    if (event.key === "ArrowRight") {
-      event.preventDefault();
-      if (event.repeat) {
-        mario.startCheering();
-      } else {
-        if (mario.currentSpeed === 0) {
-          mario.startWalking();
-        } else if (mario.currentSpeed === 3) {
-          mario.startRunning();
-        }
-      }
-    } else if (event.key === "ArrowLeft") {
-      event.preventDefault();
-      if (event.repeat) {
-        mario.stopAnimate();
-      } else {
-        mario.startPuffing();
+  if (event.key === "ArrowRight") {
+    event.preventDefault();
+    if (event.repeat) {
+      mario.startCheering();
+    } else {
+      if (mario.currentSpeed === 0) {
+        mario.startWalking();
+      } else if (mario.currentSpeed === 3) {
+        mario.startRunning();
       }
     }
-  });
+  } else if (event.key === "ArrowDown") { // changed from arrowleft to arrowdown
+    event.preventDefault();
+    if (event.repeat) {
+      mario.stopAnimate();
+    } else {
+      mario.startPuffing();
+    }
+  } else if (event.key === "ArrowLeft") { // created new actions for arrow left for walking/running L
+    event.preventDefault();
+    if (event.repeat) {
+      mario.startWalkingL(); // Example action for holding down the key
+    } else {
+      mario.startRunningL(); // Replace this with the actual function to walk left
+    }
+  }
+});
 
   //touch events that enable animations
   window.addEventListener("touchstart", (event) => {
