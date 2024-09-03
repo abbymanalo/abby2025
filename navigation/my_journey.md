@@ -1,8 +1,7 @@
 ---
 layout: page
 title: My Journey
-search_exclude: true
-permalink: /My_Journey/
+permalink: /my_journey/
 ---
 # Journey of Setting Up for APCSP, Trimester 1
 ## Tools Setup
