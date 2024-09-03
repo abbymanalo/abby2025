@@ -1,8 +1,9 @@
 ---
 layout: page
 title: My Journey
-permalink: /my_journey/
+permalink: /myjourney/
 ---
+
 # Journey of Setting Up for APCSP, Trimester 1
 ## Tools Setup
 Since I took CSSE during the 2023-2024 school year, I had most of the tools that were required to be set up. 
