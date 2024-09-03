@@ -210,3 +210,8 @@ hide: true
 - Double click Arrow Right: run
 - Press Arrow Left: run
 - Working on adding walking left and shifting placement of mario lower on screen
+
+<div>
+<button><a href= "https://abbymanalo.github.io/abby2025/myjourney/">About</a></button>
+<button><a href= "https://abbymanalo.github.io/abby2025/about/">My Journey</a></button>
+</div>
