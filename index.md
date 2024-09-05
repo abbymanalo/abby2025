@@ -5,6 +5,7 @@ description: Home Page
 image: /images/mario_animation.png
 hide: true
 ---
+
 <!-- Liquid:  statements -->
 
 <!-- Include submenu from _includes to top of pages -->
@@ -202,14 +203,7 @@ hide: true
 
 </script>
 
-
-## Mario Commands
-- Arrow Key down: puffing
-- Hold on Arrow Right: cheering
-- Press Arrow Right: walk
-- Double click Arrow Right: run
-- Press Arrow Left: run
-- Working on adding walking left and shifting placement of mario lower on screen
+#### Hi, my name is Abby. I'm 16 years old and as you can see from my blog themes, my favorite color is purple. You can learn more about me by clicking the "About" button either from the navigation bar above or the button below the text. 
 
 <div>
 <button><a href= "https://abbymanalo.github.io/abby2025/myjourney/">About</a></button>
