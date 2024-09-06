@@ -209,3 +209,7 @@ hide: true
 <button><a href= "https://abbymanalo.github.io/abby2025/myjourney/">About</a></button>
 <button><a href= "https://abbymanalo.github.io/abby2025/about/">My Journey</a></button>
 </div>
+
+
+<img src="images/carouselindex/coppeliapic.jpg" alt="Coppelia" width="350" height="250">
+
