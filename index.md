@@ -210,6 +210,6 @@ hide: true
 <button><a href= "https://abbymanalo.github.io/abby2025/about/">My Journey</a></button>
 </div>
 
-
+<div style="text-align: center;">
 <img src="images/carouselindex/coppeliapic.jpg" alt="Coppelia" width="350" height="250">
-
+</div>
