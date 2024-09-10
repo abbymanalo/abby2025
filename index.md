@@ -202,12 +202,33 @@ hide: true
   });
 
 </script>
+<div style="text-align: center; color: purple">
+<h1> Welcome to my Github Pages! </h1>
+</div>
 
-#### Hi, my name is Abby. I'm 16 years old and as you can see from my blog themes, my favorite color is purple. You can learn more about me by clicking the "About" button either from the navigation bar above or the button below the text. 
+<!-- Navigation buttons section -->
+<div style="display: flex; justify-content: center; gap: 30px; padding: 40px; background-color: #e2a6f8;border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+<div style="text-align: center;">
+   <a href="summerintensives" style="text-decoration: none;">
+      <button style="background-color: #e2a6f8; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+         Summer Intensives
+      </button>
+   </a>
+</div>
 
-<div>
-<button><a href= "https://abbymanalo.github.io/abby2025/myjourney/">About</a></button>
-<button><a href= "https://abbymanalo.github.io/abby2025/about/">My Journey</a></button>
+
+<div style="text-align: center;">
+   <a href="bakingrecipes" style="text-decoration: none;">
+      <button style="background-color: #e2a6f8; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+         Baking Recipes 
+      </button>
+   </a>
+</div>
+</div>
+
+
+<div style="text-align: center; font-size: 150%">
+Click on the links above to see some blogs I made!
 </div>
 
 <div style="text-align: center;">
