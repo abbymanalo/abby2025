@@ -228,7 +228,8 @@ hide: true
 
 
 <div style="text-align: center; font-size: 150%">
-Click on the links above to see some blogs I made!
+Click on the links above to see some blogs I made! 😀
+
 </div>
 
 <div style="text-align: center;">
