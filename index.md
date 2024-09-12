@@ -202,24 +202,24 @@ hide: true
   });
 
 </script>
-<div style="text-align: center; color: purple">
-<h1> Welcome to my Github Pages! </h1>
+<div style="text-align: center; color: #512e5f; font-size: 250%">
+Welcome to my Github Pages! 
 </div>
 
 <!-- Navigation buttons section -->
-<div style="display: flex; justify-content: center; gap: 30px; padding: 40px; background-color: #e2a6f8;border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+<div style="display: flex; justify-content: center; gap: 30px; padding: 40px; background-color: #fdfefe8;border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
 <div style="text-align: center;">
    <a href="summerintensives" style="text-decoration: none;">
-      <button style="background-color: #e2a6f8; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+      <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
          Summer Intensives
       </button>
    </a>
 </div>
 
 
-<div style="text-align: center;">
+<div style="text-align: center; font-size: 150%">
    <a href="bakingrecipes" style="text-decoration: none;">
-      <button style="background-color: #e2a6f8; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+      <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
          Baking Recipes 
       </button>
    </a>
@@ -228,10 +228,10 @@ hide: true
 
 
 <div style="text-align: center; font-size: 150%">
-Click on the links above to see some blogs I made! 😀
+Click on the buttons above to see some blogs I made! 😀
 
 </div>
 
 <div style="text-align: center;">
-<img src="images/carouselindex/coppeliapic.jpg" alt="Coppelia" width="350" height="250">
+<img src="images/carouselindex/coppeliapic.jpg" alt="Coppelia" width="400" height="300">
 </div>
