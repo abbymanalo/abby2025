@@ -242,3 +242,11 @@ Click on the buttons above to see some personal interest blogs I made! 😀
 <div style="text-align: center;">
 <img src="images/carouselindex/coppeliapic.jpg" alt="Coppelia" width="400" height="300">
 </div>
+
+<script src="https://utteranc.es/client.js"
+        repo="abbymanalo/abby2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
