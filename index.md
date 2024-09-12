@@ -227,17 +227,15 @@ Welcome to my Github Pages!
 </div>
 
 <div style="text-align: center; font-size: 150%">
-   <a href="Plans" style="text-decoration: none;">
+   <a href="plans/" style="text-decoration: none;">
       <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
          Plans
       </button>
    </a>
 </div>
-</div>
-
 
 <div style="text-align: center; font-size: 150%">
-Click on the buttons above to see some blogs I made! 😀
+Click on the buttons above to see some personal interest blogs I made! 😀
 
 </div>
 
