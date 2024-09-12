@@ -224,7 +224,6 @@ Welcome to my Github Pages!
       </button>
    </a>
 </div>
-</div>
 
 <div style="text-align: center; font-size: 150%">
    <a href="plans/" style="text-decoration: none;">
@@ -232,6 +231,7 @@ Welcome to my Github Pages!
          Plans
       </button>
    </a>
+</div>
 </div>
 
 <div style="text-align: center; font-size: 150%">
