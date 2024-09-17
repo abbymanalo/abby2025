@@ -242,7 +242,7 @@ Welcome to my Github Pages!
 </div>
 
 <div style="text-align: center; font-size: 150%">
-Click on the buttons above to see some personal interest blogs I made! 😀
+Click on the buttons above to see some of my work! 😀
 
 </div>
 
