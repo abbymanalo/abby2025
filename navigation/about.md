@@ -26,3 +26,11 @@ I am full Filipino, and I had a Filipino citizenship until my family and I got o
 I was born in Singapore and I lived there until I was five years old before moving to San Diego. I haven't visited Singapore in a few years, but the next time I travel I hope to go there!
 </div>
 <img src="{{site.baseurl}}/images/carouselindex/singaporeflag.png" alt="Philippines" width="550" height="330">
+
+<script src="https://utteranc.es/client.js"
+        repo="abbymanalo/abby2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
