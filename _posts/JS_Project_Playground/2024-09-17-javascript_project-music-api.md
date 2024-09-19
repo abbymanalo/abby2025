@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript Itunes API
-description: API's are a primary source for obtaining data from the internet.  There is information in API's for almost any interest.
+description: Play some songs!
 permalink: /itunesapi/
 ---
 <!-- Input box and button for filter -->
