@@ -4,6 +4,68 @@ title: Javascript Itunes API
 description: Play some songs!
 permalink: /itunesapi/
 ---
+<!-- Dropdown Menu -->
+<div class="dropdown">
+    <button class="dropbtn">Go to other playground pages!</button>
+    <div class="dropdown-content">
+        <a href="{{site.baseurl}}/cookieclicker/">Cookie Clicker</a>
+        <a href="{{site.baseurl}}/calculator/">Calculator</a>
+        <a href="{{site.baseurl}}/snakegame/">Snake Game</a>
+        <a href="{{site.baseurl}}/jsprojectplayground/">JS Playground Home</a>
+    </div>
+</div>
+
+<style>
+/* Container for the dropdown */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Button to open the dropdown */
+.dropbtn {
+    background-color: #ffb4d2;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown content on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the button when hovering */
+.dropdown:hover .dropbtn {
+    background-color: #2980b9;
+}
+</style>
+
 <!-- Input box and button for filter -->
 <div>
   <input type="text" id="filterInput" placeholder="Enter iTunes filter">
