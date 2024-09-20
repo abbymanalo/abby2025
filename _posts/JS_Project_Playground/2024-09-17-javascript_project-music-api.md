@@ -62,7 +62,7 @@ permalink: /itunesapi/
 
 /* Change the background color of the button when hovering */
 .dropdown:hover .dropbtn {
-    background-color: #2980b9;
+    background-color: #c9184a;
 }
 </style>
 
