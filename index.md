@@ -258,6 +258,70 @@ Click on the buttons above to see some of my work! 😀
 <img src="images/carouselindex/coppeliapic.jpg" alt="Coppelia" width="400" height="300">
 </div>
 
+<!-- Swap Links Button -->
+<div class="button-container">
+    <button id="swapButton" class="swap-button">Switch!</button>
+</div>
+<div class="button-container">
+    <a id="button1" class="button" href="https://open.spotify.com/">Spotify</a>
+    <a id="button2" class="button" href="https://music.apple.com/us/new">Apple Music</a>
+</div>
+
+<style>
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #dad7cd;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+    text-decoration: none; /* Remove underline from links */
+    display: inline-block; /* Make links behave like buttons */
+}
+
+.button:hover {
+    background-color: #a3b18a;
+}
+
+.swap-button {
+    background-color: #588157; /* Different color for the swap button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.swap-button:hover {
+    background-color: #3a5a40; /* Darker shade on hover */
+}
+</style>
+
+<script>
+document.getElementById('swapButton').onclick = function() {
+    const button1 = document.getElementById('button1');
+    const button2 = document.getElementById('button2');
+    
+    // Swap the text and href of the buttons
+    const tempText = button1.innerHTML;
+    const tempHref = button1.href;
+    
+    button1.innerHTML = button2.innerHTML;
+    button1.href = button2.href;
+
+    button2.innerHTML = tempText;
+    button2.href = tempHref;
+};
+</script>
+
+
+
 <script src="https://utteranc.es/client.js"
         repo="abbymanalo/abby2025"
         issue-term="pathname"
