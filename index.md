@@ -207,7 +207,8 @@ Welcome to my Github Pages!
 </div>
 
 <!-- Navigation buttons section -->
-<div style="display: flex; justify-content: center; gap: 30px; padding: 40px; background-color: #fdfefe8;border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+<div style="display: flex; justify-content: center; gap: 30px; padding: 40px; border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+
 <div style="text-align: center;">
    <a href="summerintensives" style="text-decoration: none;">
       <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
