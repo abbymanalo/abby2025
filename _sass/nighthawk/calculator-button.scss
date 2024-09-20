@@ -38,10 +38,10 @@
 
 /* styling for the calculator clear button */
 .calculator-clear {
-    @include button(orange, black, darkorange);
+    @include button(#D7CEB2, #A59E8C, #A59E8C);
 }
 
 /* styling for the calculator equals button */
 .calculator-equals {
-    @include button(red, black, darkred);
+    @include button(#A59E8C, #66635B, #66635B);
 }
