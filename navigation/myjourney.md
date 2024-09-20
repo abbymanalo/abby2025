@@ -3,6 +3,8 @@ layout: page
 title: My Journey
 permalink: /myjourney/
 ---
+## Update as of 09-19-2024
+I've realized that I haven't been keeping update on my journey in this class in a while. Since one of the notebook hacks is to make a Plans v. Acomplished notebook, I will be logging my work and reflections there instead. You may find it by going to my homepage and clicking on the purple button that says Plans v. Acomplished. 
 
 # Journey of Setting Up for APCSP, Trimester 1
 ## Tools Setup

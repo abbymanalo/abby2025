@@ -228,7 +228,7 @@ Welcome to my Github Pages!
 <div style="text-align: center; font-size: 150%">
    <a href="plans/" style="text-decoration: none;">
       <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
-         Plans
+         Plans v. Acomplished 
       </button>
    </a>
 </div>
@@ -236,6 +236,13 @@ Welcome to my Github Pages!
    <a href="{{site.baseurl}}/jsprojectplayground/" style="text-decoration: none;">
       <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
          Javascript Project Playground
+      </button>
+   </a>
+</div>
+<div style="text-align: center; font-size: 150%">
+   <a href="{{site.baseurl}}/samplenotebook/" style="text-decoration: none;">
+      <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
+         Sample Notebook
       </button>
    </a>
 </div>
