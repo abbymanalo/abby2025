@@ -52,9 +52,7 @@ jobs:
           bundle exec jekyll build  # Build your Jekyll site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          name: my-artifact
-          path: _site  # Specify the path to your built site
+    
   # Deployment job
   deploy:
     environment:
