@@ -217,14 +217,15 @@ Welcome to my Github Pages!
    </a>
 </div>
 
-
-<div style="text-align: center; font-size: 150%">
-   <a href="plans/" style="text-decoration: none;">
+<div style="text-align: center;">
+   <a href="cpt_project" style="text-decoration: none;">
       <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
-         Plans v. Acomplished 
+         Create Performance Task 
       </button>
    </a>
 </div>
+
+
 <div style="text-align: center; font-size: 150%">
    <a href="{{site.baseurl}}/jsprojectplayground/" style="text-decoration: none;">
       <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
@@ -232,14 +233,8 @@ Welcome to my Github Pages!
       </button>
    </a>
 </div>
-<div style="text-align: center; font-size: 150%">
-   <a href="{{site.baseurl}}/samplenotebook/" style="text-decoration: none;">
-      <button style="background-color: #d7bde2; color: white; border: none; padding: 20px 50px; font-size: 18px; border-radius: 50px; cursor: pointer; transition: background-color 0.3s, transform 0.3s;">
-         Sample Notebook
-      </button>
-   </a>
 </div>
-</div>
+
 
 <div style="text-align: center; font-size: 150%">
 Click on the buttons above to see some of my work! 😀
