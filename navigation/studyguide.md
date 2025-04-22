@@ -46,7 +46,7 @@ permalink: /studyguide
     <a href="page7.html" class="link-button">Binary Search Algorithm</a>
     <a href="page8.html" class="link-button">Lists and Filtering Algorithms</a>
     <a href="page9.html" class="link-button">Simulation Games and Random Algorithms</a>
-    <a href="page10.html" class="link-button">Big O and Algorith Efficiency</a>
+    <a href="page10.html" class="link-button">Big O and Algorithm Efficiency</a>
     <a href="page11.html" class="link-button">Undecideable Problems, Graphs, and Heuristics</a>
     <a href="page12.html" class="link-button">Binary Base 2 Math and Logic gates</a>
     <a href="page13.html" class="link-button">Color Codes/Images/Base64</a>
