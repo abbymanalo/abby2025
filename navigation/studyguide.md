@@ -37,19 +37,18 @@ permalink: /studyguide
 
 
 <div class="button-container">
-    <a href="page1.html" class="link-button">Beneficial and Harmful Effects</a>
-    <a href="page2.html" class="link-button">Digital Divide</a>
-    <a href="page3.html" class="link-button">Computing Bias</a>
-    <a href="page4.html" class="link-button">Crowdsourcing</a>
-    <a href="page5.html" class="link-button">Legal and Ethical Concerns</a>
-    <a href="page6.html" class="link-button">Safe Computing</a>
-    <a href="page7.html" class="link-button">Binary Search Algorithm</a>
-    <a href="page8.html" class="link-button">Lists and Filtering Algorithms</a>
-    <a href="page9.html" class="link-button">Simulation Games and Random Algorithms</a>
-    <a href="page10.html" class="link-button">Big O and Algorithm Efficiency</a>
-    <a href="page11.html" class="link-button">Undecideable Problems, Graphs, and Heuristics</a>
-    <a href="page12.html" class="link-button">Binary Base 2 Math and Logic gates</a>
-    <a href="page13.html" class="link-button">Color Codes/Images/Base64</a>
+    <a href="{{ site.baseurl }}/benefit-notes" class="link-button">Beneficial and Harmful Effects</a>
+    <a href="{{ site.baseurl }}/digital-div-notes" class="link-button">Digital Divide</a>
+    <a href="{{ site.baseurl }}/computing-bias-notes" class="link-button">Computing Bias</a>
+    <a href="{{ site.baseurl }}/crowdsourcing-notes" class="link-button">Crowdsourcing</a>
+    <a href="{{ site.baseurl }}/legal-ethical-notes" class="link-button">Legal and Ethical Concerns</a>
+    <a href="{{ site.baseurl }}/safe-computing-notes" class="link-button">Safe Computing</a>
+    <a href="{{ site.baseurl }}/binary-search-notes" class="link-button">Binary Search Algorithm</a>
+    <a href="{{ site.baseurl }}/lsits-filter-notes" class="link-button">Lists and Filtering Algorithms</a>
+    <a href="{{ site.baseurl }}/bigo-algo-notes" class="link-button">Big O and Algorithm Efficiency</a>
+    <a href="{{ site.baseurl }}" class="link-button">Undecideable Problems, Graphs, and Heuristics</a>
+    <a href="{{ site.baseurl }}" class="link-button">Binary Base 2 Math and Logic gates</a>
+    <a href="{{ site.baseurl }}" class="link-button">Color Codes/Images/Base64</a>
   </div>
 
 
