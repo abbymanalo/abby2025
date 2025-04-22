@@ -20,7 +20,7 @@ permalink: /studyguide
     .link-button {
       display: block;
       padding: 15px 20px;
-      background-color: #4CAF50;
+      background-color: #822faf;
       color: white;
       text-align: center;
       text-decoration: none;
