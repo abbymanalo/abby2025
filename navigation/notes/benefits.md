@@ -2,7 +2,7 @@
 layout: post
 title:  Beneficial and Harmful Effects
 description: Notes on Team Teaches
-permalink: /benefitnotes
+permalink: /benefit-notes
 --- 
 # Beneficial Effects and Harms of Computing Innovations
 
