@@ -46,4 +46,4 @@ A heuristic is a problem-solving approach that simplifies the solution process u
 - Heuristic: Look for the science section of the library to find the science book.
 
 
-# <a href="{{ site.baseurl }}/lists-and-filter">Link to Popcorn Hacks and Homework</a>
+# <a href="{{ site.baseurl }}">Link to Popcorn Hacks and Homework</a>
