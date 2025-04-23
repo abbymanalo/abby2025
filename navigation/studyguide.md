@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Study Guide
-description: Links to Notes on Team Teaches
+description: Links to resources to prep for AP exam
 permalink: /studyguide
 --- 
 
