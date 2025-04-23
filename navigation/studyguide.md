@@ -37,6 +37,9 @@ permalink: /studyguide
 
 
 <div class="button-container">
+    <a href="https://www.youtube.com/playlist?list=PLoGgviqq4844vbwcKegJgIxSQyVHDzSXT" class="link-button">College Board Video Playlist</a>
+    <a href="https://drive.google.com/file/d/1rPWthDNOPopHcpIIlGEhhdH_sQosZDx8/view" class="link-button">Cram Sheet by Fiveable</a>
+    <a href="https://drive.google.com/file/d/1J8zKCa2d2TCvcJuO63B3U3YdWRClfs78/view" class="link-button">Review Guide by Simple Studies</a>
     <a href="{{ site.baseurl }}/benefit-notes" class="link-button">Beneficial and Harmful Effects</a>
     <a href="{{ site.baseurl }}/digital-div-notes" class="link-button">Digital Divide</a>
     <a href="{{ site.baseurl }}/computing-bias-notes" class="link-button">Computing Bias</a>
