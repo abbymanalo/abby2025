@@ -46,7 +46,7 @@ permalink: /studyguide
     <a href="{{ site.baseurl }}/binary-search-notes" class="link-button">Binary Search Algorithm</a>
     <a href="{{ site.baseurl }}/lsits-filter-notes" class="link-button">Lists and Filtering Algorithms</a>
     <a href="{{ site.baseurl }}/bigo-algo-notes" class="link-button">Big O and Algorithm Efficiency</a>
-    <a href="{{ site.baseurl }}" class="link-button">Undecideable Problems, Graphs, and Heuristics</a>
+    <a href="{{ site.baseurl }}/problems-graphs-notes" class="link-button">Undecideable Problems, Graphs, and Heuristics</a>
     <a href="{{ site.baseurl }}" class="link-button">Binary Base 2 Math and Logic gates</a>
     <a href="{{ site.baseurl }}" class="link-button">Color Codes/Images/Base64</a>
   </div>
