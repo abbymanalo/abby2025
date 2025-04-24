@@ -4,6 +4,21 @@ title:  Study Guide
 description: Links to resources to prep for AP exam
 permalink: /studyguide
 --- 
+## 📅 Study Calendar Leading up to AP Exam
+
+### Week 2: April 28 – May 4
+| Sun 4  | Mon 5  | Tue 6  | Wed 7  | Thu 8  | Fri 9  | Sat 10 |
+|--------|--------|--------|--------|--------|--------|--------|
+| **Topic Review**: Data & Information | **Topic Review**: Algorithms | **Topic Review**: Sorting Algorithms | **Topic Review**: Data Structures | **Topic Review**: Recursion & Loops | **Topic Review**: Lists & Arrays | **Topic Review**: Abstraction & Modularity |
+| - Review data types (numeric, textual) | - Study algorithms and how they work | - Focus on sorting algorithms (bubble, merge) | - Review lists, arrays, and how to store data | - Go over recursion and loops in programming | - Review lists, arrays, and their uses | - Study abstraction and modular design in code |
+
+### Week 3: May 5 – May 11
+| Sun 11 | Mon 12 | Tue 13 | Wed 14 | Thu 15 |
+|--------|--------|--------|--------|--------|
+| **Topic Review**: Internet & Networks | **Topic Review**: Cybersecurity | **Topic Review**: Encryption Methods | **Topic Review**: Apps & Development | **Final Review**: Key Concepts & Relax |
+| - Study internet protocols (TCP/IP, DNS) | - Review principles of cybersecurity | - Understand encryption and secure data methods | - Go over app development and structures | - Final review of key concepts and relaxation |
+
+
 
 <title>Lesson Links</title>
 
